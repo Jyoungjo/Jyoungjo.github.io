@@ -1,34 +1,31 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+author1: Jyoungjo
+  name:              <Youngjo> <Jang>
+  email:             <zimbote0411@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    안녕하세요! 저는 백엔드 개발자를 꿈꾸는 비전공 개발자 장영조입니다!
+    대학교에서 전공으로 신소재공학부를 졸업하였지만 누군가의 삶에 긍정적인 기여를 하고 싶어 전공을 버리고 개발 공부에 몰두하고 있습니다!
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            assets/img/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            assets/img/me.jpg
+      2x:            assets/img/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    # twitter:         <username>
     github:          <username>
-    # email:           <mail@domain.tld>
+    email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
