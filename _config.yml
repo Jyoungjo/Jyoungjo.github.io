@@ -50,13 +50,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Algorithm
-    url:               /Algorithm/
+    url:               /algorithm/
   - title:             Portfolio
-    url:               /Portfolio/
+    url:               /portfolio/
   - title:             Project
-    url:               /Project/
+    url:               /project/
   - title:             Life
-    url:               /Life/
+    url:               /life/
   - title:             About
     url:               /about/
 
