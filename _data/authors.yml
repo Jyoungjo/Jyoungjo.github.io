@@ -8,8 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    안녕하세요! 저는 백엔드 개발자를 꿈꾸는 비전공 개발자 장영조입니다!
-    대학교에서 전공으로 신소재공학부를 졸업하였지만 누군가의 삶에 긍정적인 기여를 하고 싶어 전공을 버리고 개발 공부에 몰두하고 있습니다!
+    안녕하세요! 저는 백엔드 개발자를 꿈꾸는 장영조입니다!
+    대학교에서 전공으로 신소재공학부를 졸업하였지만 누군가의 삶에 긍정적인 기여를 하고 싶어 개발 공부에 몰두하고 있습니다!
+    잘 부탁드려요~
 
   # This photo will be used in the about section
   picture:
